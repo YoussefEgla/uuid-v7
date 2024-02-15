@@ -8,7 +8,7 @@ This package extends the built-in `uuid` module to include UUID v7 and v6.
 ## Install it from PyPI
 
 ```bash
-pip install uuid_v7
+pip install uuid-v7
 ```
 
 ## Usage
